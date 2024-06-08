@@ -1,3 +1,6 @@
+#FORGED CHEQUE DETECTOR
+
+
 This project focuses on simplifying the detection of forged and authentic bank cheques by leveraging advanced image processing and machine learning algorithms.
 
 
